@@ -4,15 +4,21 @@
 * {
     margin: 0;
     padding: 0;
+    /* width: 80%; */
     box-sizing: border-box;
     /* background-color: white; */
   }
 body {
     background-color: rgb(243, 243, 243);
+    /* align-items: center; */
 }
 form {
     width: 100%;
 }
+/* main {
+    display: flex;
+    justify-content: center;
+} */
 .col{
     display: flex;
     flex-direction: column;
