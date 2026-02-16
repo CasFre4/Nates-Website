@@ -27,7 +27,7 @@ export default function DynamicPage({
   slug: string;
 }) {
     let foundItem: Item|null = null;
-    Object.entries(data).forEach(([key, items], index) => {
+    Object.entries(data).forEach(([_, items], _index) => {
         const item = items.find((d) => d.link === slug && d.title !== undefined);
         if (item) {
             foundItem = item;
