@@ -4,7 +4,7 @@ import styles from '../css/Home.module.css'
 // import DescGallery from '../components/DescGallery'
 // import Projects from '../components/Projects'
 import homeLinks from '../data/homeLinks.json'
-import ChartHome from '../components/ChartHome'
+// import ChartHome from '../components/ChartHome'
 import TreeGen from "../components/Tree"
 
 import Link from 'next/link'
