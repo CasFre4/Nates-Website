@@ -1,6 +1,6 @@
 // "use client"
 import React from 'react'
-import styles from'../css/Projects.module.css'
+// import styles from'../css/Projects.module.css'
 // import ProjectList from '../assets/ProjectList'
 import ReactMarkdown from 'react-markdown'
 import {Pages, Item} from '../types/jsontypes'
