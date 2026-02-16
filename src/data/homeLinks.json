@@ -3,19 +3,19 @@
     "title": "EIA automated data collection",
     "content":  "\n## Features\n- ![Alt text](/images/tree/branch.png) Collect bulk data from the EIA API\n- Automatically handle API requests and rate limits\n- Parse and store data in JSON(limited), DataFrames, Databases.\n- Support for all publicly available EIA API data.\n- Easy-to-use interface for querying and downloading data\n- Extensive error catching for ease of use.",
     "date": "12/12/1212",
-    "link": "EIA-bulk"
+    "link": "/projects"
   },
   {
     "title": "EIA automated data collection",
     "content":  "\n## Features\n- Collect bulk data from the EIA API\n- Automatically handle API requests and rate limits\n- Parse and store data in JSON(limited), DataFrames, Databases.\n- Support for all publicly available EIA API data.\n- Easy-to-use interface for querying and downloading data\n- Extensive error catching for ease of use.",
     "date": "12/12/1212",
-    "link": "EIA-bulk2"
+    "link": "/contact-me"
   }],
   "for fun": [{
     "title": "EIA automated data collection",
     "content":  "\n## Features\n- Collect bulk data from the EIA API\n- Automatically handle API requests and rate limits\n- Parse and store data in JSON(limited), DataFrames, Databases.\n- Support for all publicly available EIA API data.\n- Easy-to-use interface for querying and downloading data\n- Extensive error catching for ease of use.",
     "date": "12/12/1212",
-    "link": "EIA-bulk3"
+    "link": "WHHYYY3"
   },
   {
     "title": "EIA automated data collection",
@@ -64,6 +64,7 @@
     "content":  "\n## Features\n- Collect bulk data from the EIA API\n- Automatically handle API requests and rate limits\n- Parse and store data in JSON(limited), DataFrames, Databases.\n- Support for all publicly available EIA API data.\n- Easy-to-use interface for querying and downloading data\n- Extensive error catching for ease of use.",
     "date": "12/12/1212",
     "link": "EIA-bulk5"
-  }]
+  }
+]
  
 }

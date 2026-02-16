@@ -3,7 +3,9 @@ import styles from '../css/Home.module.css'
 // import ImageSlidingGallery from '../components/ImageSlidingGallery'
 // import DescGallery from '../components/DescGallery'
 // import Projects from '../components/Projects'
+import homeLinks from '../data/homeLinks.json'
 import ChartHome from '../components/ChartHome'
+import TreeGen from "../components/Tree"
 
 import Link from 'next/link'
 // import projectList from '../assets/ProjectList'
@@ -14,7 +16,7 @@ function Home() {
       // <div className='projectContainer'>
       <div className='row'>
         <div className='col' style={{'--col-width': '.33', '--justify-col': 'flex-start'} as React.CSSProperties}>
-          <ChartHome/>
+          <TreeGen data={homeLinks} path={""}/>
         </div>
         <div className='col'>
           <div className='row' style={{'--col-width': '.33', '--justify-row': 'flex-start'} as React.CSSProperties}>
